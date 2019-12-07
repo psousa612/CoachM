@@ -1,0 +1,1 @@
+var list = ["Take a flight of stairs today! (Or more!)", ]
